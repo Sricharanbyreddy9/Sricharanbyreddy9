@@ -9,16 +9,17 @@
     <a href="https://sricharanbyreddy.online"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-sricharanbyreddy.online-4CAF50?logo=vercel&labelColor=555"/></a>
   </p>
 
-tagline: "Code that scales, learns, and ships — Java/Spring Boot, Python/FastAPI, React/Vue, PostgreSQL/Supabase, Docker/AWS, RAG & classical CV."
-
-  I build scalable backends, intelligent APIs, and ML-powered products that turn data into useful features.
-  Core strengths:
-  - Java / Spring Boot
-  - Python / FastAPI / Flask
-  - React / Vue (Vite)
-  - PostgreSQL / Supabase / Redis
-  - Docker / AWS (EC2, Lambda, CloudWatch)
-  - Retrieval-Augmented Generation and classical computer vision (HOG, SVM, MLP, CNN)
+<p align="center">
+  🚀 <strong>Code that scales, learns & ships</strong>
+</p>
+<p align="center">
+  <code>Java / Spring Boot</code> •
+  <code>Python / FastAPI</code> •
+  <code>React / Vue</code> •
+  <code>PostgreSQL / Supabase</code> •
+  <code>Docker / AWS</code> •
+  <code>RAG & Classical CV</code>
+</p>
 
 ask_me_about: |-
   - REST/GraphQL API design, event-driven patterns, CI/CD hardening
