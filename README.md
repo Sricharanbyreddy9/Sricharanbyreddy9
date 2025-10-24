@@ -11,7 +11,6 @@
 
 tagline: "Code that scales, learns, and ships — Java/Spring Boot, Python/FastAPI, React/Vue, PostgreSQL/Supabase, Docker/AWS, RAG & classical CV."
 
-about: |-
   I build scalable backends, intelligent APIs, and ML-powered products that turn data into useful features.
   Core strengths:
   - Java / Spring Boot
@@ -32,7 +31,6 @@ contact_md: |-
   - 🌐 Portfolio: <a href="https://sricharanbyreddy.online">sricharanbyreddy.online</a>
   - 🧑‍💻 GitHub: <a href="https://github.com/Sricharanbyreddy9">Sricharanbyreddy9</a>
 
-tech_toolbox_table_md: |-
   ## 🧰 Tech Toolbox
   | Domain | Tools |
   |---|---|
@@ -90,9 +88,11 @@ projects:
     summary: "Compare classic features vs deep ensembles for visually similar classes."
     report_or_code: "https://github.com/Sricharanbyreddy9/Advancing-Fine-Grained-Recognition-Through-Weakly-Supervised-Learning"
     models: |-
+    ```
       HOG → SVM      (baseline)
       HOG → MLP      (nonlinear head)
       ELLF + CNN     (localized parts + conv features)
+    ```
     bullets: |-
       - Pipelines: HOG+SVM, HOG+MLP, ELLF+CNN (weak supervision)
       - Results (sample): HOG+SVM 85%, HOG+MLP 88%, ELLF+CNN 95%
