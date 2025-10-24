@@ -2,7 +2,6 @@
   <h1 align="center">👋 Hi, I'm Sri Charan Byreddy</h1>
   <h3 align="center">Full-Stack & AI Engineer · Cloud-Native · ML-Driven Systems</h3>
 
-profile_badges_html: |-
   <p align="center">
     <a href="mailto:charanbyreddy2717@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-charanbyreddy2717%40gmail.com-D14836?logo=gmail&labelColor=555"/></a>
     <a href="https://www.linkedin.com/in/sri-charan-byreddy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&labelColor=555"/></a>
